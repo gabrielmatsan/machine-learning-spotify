@@ -208,6 +208,7 @@ jupyter notebook src/notebook.ipynb
 
 - Python 3.10+
 - pandas, numpy, seaborn, matplotlib
+- modal
 - scikit-learn, statsmodels, scipy
 - PyCaret (AutoML)
 
