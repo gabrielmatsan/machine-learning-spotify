@@ -1,10 +1,3 @@
-"""
-Spotify Genre Classifier - Modal Deploy
-Classificador de gênero musical usando Random Forest
-
-Autor: Gabriel Santos - CESUPA
-"""
-
 import modal
 
 # Criar a app Modal
